@@ -1,0 +1,73 @@
+body {
+    background-color: rgb(247, 204, 148);
+}
+h1 {
+    color: #023457;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+.cont1 {
+    display: flex;
+   }
+   .kotak-1 {
+       height: 200px;
+       width: 20%;
+       background-color: #023457;
+       border: 3px solid bisque;
+       margin-top: 20px;
+       border-radius: 10px;
+   }
+   .kotak-2 {
+       height: 200px;
+       width: 80%;
+       border: 3px  solid bisque;
+       background-color: #023457;
+       margin-left: 20px;
+       margin-top: 20px;
+       border-radius: 10px; 
+    }
+.cont2 {
+    display: flex;
+}
+    .kotak-3 {
+        border: 3px solid bisque ;
+        height: 670px;
+        width: 300px;
+        background-color: #023457;
+        margin-top: 20px;
+        margin-right: auto;
+        margin-left: auto;
+        border-radius: 10px;
+
+}
+    .kotak-4 {
+        border: 3px solid bisque ;
+        height: 670px;
+        width: 300px;
+        background-color: #023457;
+        margin-top: 20px;
+        margin-right: auto;
+        margin-left: auto;
+        border-radius: 10px;
+}
+    .kotak-5 {
+        border: 3px solid bisque ;
+        height: 670px;
+        width: 300px;
+        background-color: #023457;
+        margin-top: 20px;
+        margin-right: auto;
+        margin-left: auto;
+        border-radius: 10px;
+}
+.cont3 {
+    display: flex;
+}
+.kotak-6 {
+    background-color: #023457;
+    border: 3px solid bisque;
+    border-radius: 10px;
+    height: 200px;
+    width: 100%;
+    margin-top: 20px;
+}
